@@ -4,9 +4,17 @@ Política de privacidade pública do aplicativo **CifrasLetrasPro** para uso na 
 
 Página publicada em GitHub Pages: https://danieltmende.github.io/CifrasLetrasPro-privacy/
 
+## Termos de serviço
+
+https://danieltmende.github.io/CifrasLetrasPro-privacy/termos/
+
+## Exclusão de conta
+
+https://danieltmende.github.io/CifrasLetrasPro-privacy/exclusao/
+
 ## Download Windows
 
-Instalador desktop (versão 1.0.32):  
-https://github.com/danieltmende/CifrasLetrasPro-privacy/releases/download/v1.0.32-windows/CifrasLetrasPro.Setup.1.0.32.exe
+Instalador desktop (versão 1.0.116):  
+https://github.com/danieltmende/CifrasLetrasPro-privacy/releases/download/v1.0.116-windows/CifrasLetrasPro.Setup.1.0.116.exe
 
 Todas as versões: https://github.com/danieltmende/CifrasLetrasPro-privacy/releases
