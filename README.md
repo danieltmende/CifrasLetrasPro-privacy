@@ -14,7 +14,7 @@ https://danieltmende.github.io/CifrasLetrasPro-privacy/exclusao/
 
 ## Download Windows
 
-Instalador desktop (versão 1.0.117):  
-https://github.com/danieltmende/CifrasLetrasPro-privacy/releases/download/v1.0.117-windows/CifrasLetrasPro.Setup.1.0.117.exe
+Instalador desktop (versão 1.0.119):  
+https://github.com/danieltmende/CifrasLetrasPro-privacy/releases/download/v1.0.119-windows/CifrasLetrasPro.Setup.1.0.119.exe
 
 Todas as versões: https://github.com/danieltmende/CifrasLetrasPro-privacy/releases
